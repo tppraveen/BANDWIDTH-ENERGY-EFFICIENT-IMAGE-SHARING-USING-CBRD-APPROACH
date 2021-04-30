@@ -4,11 +4,8 @@
 <head>
 </head>
 <body>
-
 <h1>BANDWIDTH-ENERGY-EFFICIENT-IMAGE-SHARING-USING-CBRD-APPROACH</h1>
 <p>Final Year Project</p>
-
-
 <table>
   <tr>
     <td>Demo Video</td>
@@ -27,8 +24,6 @@
     <td><a href="https://github.com/tppraveen/BANDWIDTH-ENERGY-EFFICIENT-IMAGE-SHARING-USING-CBRD-APPROACH/tree/main/BEES%20Project" target="_blank">Open</a></td>
   </tr>
 </table>
-
-<p>Contact Me - <a href="https://tppraveen.github.io/">link</a></p>
-
+<p>Contact Me - <a href="https://tppraveen.github.io/" target="_blank">Praveen Kumar</a></p>
 </body>
 </html>
